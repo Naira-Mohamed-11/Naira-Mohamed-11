@@ -78,7 +78,7 @@
   </a>
   &nbsp;
   <!-- Email Button -->
-  <a href="mailto:nairamohammed400@gmail.com" target="_blank">
+  <a href="nairamohammed400@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" valign="middle" alt="Email" />
   </a>
 </div>
