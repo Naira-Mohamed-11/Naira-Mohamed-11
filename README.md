@@ -1,4 +1,4 @@
-# Hi there, I'm Naira 👋
+# Hi there, I'm Naira
 
 <!-- 1. HEADER HERO CARD (Resized & Rounded) -->
 <div align="center">
@@ -73,7 +73,7 @@
   </a>
   &nbsp;
   <!-- Portfolio Button (Data Insight Hub) -->
-  <a href="https://replit.com" target="_blank">
+  <a href="https://replit.com/@01224135971nm/Data-Insight-Hub" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Data_Insight_Hub-0052CC?style=for-the-badge&logo=replit&logoColor=white" height="35" valign="middle" alt="Portfolio" />
   </a>
   &nbsp;
