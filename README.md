@@ -64,14 +64,21 @@
 </div>
 
 <br />
-
-<!-- 6. FOOTER CONNECT BUTTONS -->
+<!-- 6. FOOTER CONNECT BUTTONS (Full Colored Rounded Rectangles) -->
 <div align="center">
   <br />
-  <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=161b22" alt="LinkedIn" />
+  <!-- LinkedIn Button -->
+  <a href="https://www.linkedin.com/in/naira--mohamed" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" valign="middle" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=161b22" alt="Email" />
+  &nbsp;
+  <!-- Portfolio Button (Data Insight Hub) -->
+  <a href="https://replit.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Data_Insight_Hub-0052CC?style=for-the-badge&logo=replit&logoColor=white" height="35" valign="middle" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <!-- Email Button -->
+  <a href="mailto:nairamohammed400@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35" valign="middle" alt="Email" />
   </a>
 </div>
