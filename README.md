@@ -1,8 +1,8 @@
 # Hi there, I'm Naira 👋
 
 <div align="center">
-  <!-- Soft pastel/nature-themed waving header representing your style -->
-  <img width="100%" src="https://capsule-render.vercel.app/type=waving&color=b4dbd6&height=150&section=header&text=Data%20Analyst%20🚀&fontSize=40&fontColor=2c3e50" alt="cover" />
+  <!-- Dynamic dashboard-style header -->
+  <img width="100%" src="https://capsule-render.vercel.app/type=waving&color=linear&bgColor=071A2C&theme=dark&height=180&section=header&text=DATA%20ANALYST%20📊&fontSize=42&fontColor=ffffff" alt="cover" />
 </div>
 
 <table>
@@ -17,7 +17,7 @@
   <tbody>
     <tr>
       <td align="center">
-        <!-- Tech Stack Badges with a consistent sleek dark color matching your reference -->
+        <!-- Tech Stack Badges with gradient professional dark theme -->
         <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white&color=071A2C" alt="Python" />
         <img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?&style=flat-square&logo=powerbi&logoColor=black&color=071A2C" alt="Power BI" />
         <img src="https://img.shields.io/badge/Excel-%23217346.svg?&style=flat-square&logo=microsoft-excel&logoColor=white&color=071A2C" alt="Excel" />
@@ -42,15 +42,27 @@ My preferred technical stack focuses on Python, advanced Excel (Power Query & Po
 
 <br /><br />
 
-## My Github stats
+## 📊 Analytics Dashboard & GitHub Metrics
+<!-- Using alternative robust analytics services that display real gradient charts for data analysts -->
+<div align="center">
+  <!-- 1. Beautiful Gradient Contribution Chart -->
+  <p><strong>GitHub Contribution Activity (Data Trend)</strong></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naira-Mohamed-11&theme=react-dark&bg_color=071A2C&color=4194FD&line=4194FD&point=b4dbd6&area=true&hide_border=true" width="100%" alt="Naira's Contribution Graph" />
+  
+  <br /><br />
 
-<a href="https://github.com/Naira-Mohamed-11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naira-Mohamed-11
-&layout=compact&theme=tokyonight&title_color=FFFFFF&text_color=FFFFFF&bg_color=071A2C&icon_color=4194FD" />
-</a>
-<a href="https://github.com/Naira-Mohamed-11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Naira-Mohamed-11&bg_color=071A2C&icon_color=4194FD&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Naira's github stats"/>
-</a>
+  <!-- 2. Modern Gradient Language Skills & Stats Charts side by side -->
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naira-Mohamed-11&layout=compact&theme=tokyonight&title_color=4194FD&text_color=FFFFFF&bg_color=071A2C&hide_border=true" height="165" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Naira-Mohamed-11&theme=tokyonight&title_color=4194FD&text_color=FFFFFF&bg_color=071A2C&hide_border=true&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br /><br />
 
