@@ -1,80 +1,77 @@
 # Hi there, I'm Naira 👋
 
+<!-- 1. HEADER HERO CARD (Resized & Rounded) -->
 <div align="center">
-  <!-- Dynamic dashboard-style header -->
-  <img width="100%" src="https://capsule-render.vercel.app/type=waving&color=linear&bgColor=071A2C&theme=dark&height=180&section=header&text=DATA%20ANALYST%20📊&fontSize=42&fontColor=ffffff" alt="cover" />
+  <img width="100%" height="220" src="https://ceriumnetworks.com/wp-content/webpc-passthru.php?src=https://ceriumnetworks.com/wp-content/uploads/2024/12/web-analytics.jpg&nocache=1" alt="Data Analytics Header" style="border-radius: 12px; object-fit: cover; box-shadow: 0 4px 20px rgba(0,0,0,0.3);" />
 </div>
 
-<table>
-  <thead>
-    <tr>
-      <td align="center">
-        <span><strong>Programming Languages, Tools & Frameworks</strong></span>
-      </td>
-    </tr>
-  </thead>
-  <br /><br />
-  <tbody>
-    <tr>
-      <td align="center">
-        <!-- Tech Stack Badges with gradient professional dark theme -->
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white&color=071A2C" alt="Python" />
-        <img src="https://img.shields.io/badge/Power_BI-%23F2C811.svg?&style=flat-square&logo=powerbi&logoColor=black&color=071A2C" alt="Power BI" />
-        <img src="https://img.shields.io/badge/Excel-%23217346.svg?&style=flat-square&logo=microsoft-excel&logoColor=white&color=071A2C" alt="Excel" />
-        <img src="https://img.shields.io/badge/SQL-%234479A1.svg?&style=flat-square&logo=microsoft-sql-server&logoColor=white&color=071A2C" alt="SQL" />
-        <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white&color=071A2C" alt="Git" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<br />
 
-<br /><br />
-
-## About me
-I graduated with a Bachelor's degree in Statistics and Computer Science. I am a passionate Data Analyst specializing in uncovering insights, data modeling, and creating meaningful visualizations. 
-My preferred technical stack focuses on Python, advanced Excel (Power Query & Power Pivot), and Power BI. I am always eager to learn new analytical methodologies and enhance dashboard aesthetics.
-
-<br /><br />
-
-## Featured Projects
-* 📊 **[Corporate Ride-Sharing Analysis](YOUR_PROJECT_LINK_HERE)** - A comprehensive analysis of corporate ride-sharing data to evaluate operational inefficiencies and identify revenue gaps.
-* 📈 **[Economic Impact Tracker Dashboard](YOUR_PROJECT_LINK_HERE)** - An interactive dashboard analyzing commercial retail performance, weekly sales, and their correlation with economic factors.
-
-<br /><br />
-
-## 📊 Analytics Dashboard & GitHub Metrics
-<!-- Using alternative robust analytics services that display real gradient charts for data analysts -->
+  <!-- 2. TECH STACK (GitHub Compatible Capsules) -->
 <div align="center">
-  <!-- 1. Beautiful Gradient Contribution Chart -->
-  <p><strong>GitHub Contribution Activity (Data Trend)</strong></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naira-Mohamed-11&theme=react-dark&bg_color=071A2C&color=4194FD&line=4194FD&point=b4dbd6&area=true&hide_border=true" width="100%" alt="Naira's Contribution Graph" />
-  
-  <br /><br />
+  <h3><img src="https://cdn-icons-png.flaticon.com/512/1197/1197460.png" width="24" height="24" valign="middle" /> Tech Stack</h3>
 
-  <!-- 2. Modern Gradient Language Skills & Stats Charts side by side -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naira-Mohamed-11&layout=compact&theme=tokyonight&title_color=4194FD&text_color=FFFFFF&bg_color=071A2C&hide_border=true" height="165" alt="Top Languages" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Naira-Mohamed-11&theme=tokyonight&title_color=4194FD&text_color=FFFFFF&bg_color=071A2C&hide_border=true&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
+  <!-- Python (Official Blue/Yellow theme) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <!-- Power BI (Official Yellow/Black theme) -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  &nbsp;
+  <!-- Excel (Official Green theme) -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+  &nbsp;
+  <!-- SQL (Database Theme) -->
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  &nbsp;
+  <!-- Git (Official Orange theme) -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 </div>
 
-<br /><br />
+<br />
 
-<h2><i>Follow me:</i></h2>
+<!-- 3. ABOUT ME BOX -->
+<blockquote>
+  <h3><img src="https://cdn-icons-png.flaticon.com/512/1006/1006555.png" width="24" height="24" valign="middle" /> ABOUT ME</h3>
+  <p>I graduated with a Bachelor's degree in Statistics and Computer Science. I am a passionate Data Analyst specializing in uncovering hidden patterns, data modeling, and creating highly intuitive dashboards. Focused on clean structure, statistical precision, and building robust data pipelines.</p>
+</blockquote>
+
+<br />
+
+<!-- 4. FEATURED PROJECTS -->
+<h2><img src="https://cdn-icons-png.flaticon.com/512/1055/1055685.png" width="26" height="26" valign="middle" /> FEATURED PROJECTS</h2>
+
+- <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="20" height="20" valign="middle" /> **Corporate Ride-Sharing Analysis** 
+  > A comprehensive analysis of corporate ride-sharing data to evaluate operational inefficiencies and identify revenue gaps. Built deep data models to optimize fleet allocation.
+  > `Python` `Data Modeling` `Revenue Analytics`
+
+- <img src="https://cdn-icons-png.flaticon.com/512/4213/4213177.png" width="20" height="20" valign="middle" /> **Economic Impact Tracker Dashboard** 
+  > An interactive dashboard analyzing commercial retail performance, weekly sales, and their direct correlations with macroeconomic factors.
+  > `Power BI` `Power Query` `Statistical Analysis`
+
+<br />
+
+<!-- 5. ANALYTICS & STATS -->
+<h2><img src="https://cdn-icons-png.flaticon.com/512/3305/3305673.png" width="26" height="26" valign="middle" /> METRICS & STATS</h2>
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naira-Mohamed-11&theme=tokyonight&background=0d1117&ring=4194FD&fire=ffaa00&hide_border=true" width="49%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naira-Mohamed-11&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4194FD&hide_border=true" width="49%" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naira-Mohamed-11&theme=tokyonight&bg_color=0d1117&title_color=4194FD&hide_border=true&show_icons=true&count_private=true" width="100%" alt="GitHub Stats" />
+</div>
+
+<br />
+
+<!-- 6. FOOTER CONNECT BUTTONS -->
+<div align="center">
+  <br />
   <a href="YOUR_LINKEDIN_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=161b22" alt="LinkedIn" />
   </a>
-  
   <a href="mailto:YOUR_EMAIL_HERE@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=161b22" alt="Email" />
   </a>
-
 </div>
