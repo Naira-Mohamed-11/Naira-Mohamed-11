@@ -52,15 +52,11 @@
 <br />
 
 <!-- 5. ANALYTICS & STATS -->
+<!-- 5. ANALYTICS & STATS (Fixed & Dynamic) -->
 <h2><img src="https://cdn-icons-png.flaticon.com/512/3305/3305673.png" width="26" height="26" valign="middle" /> METRICS & STATS</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naira-Mohamed-11&theme=tokyonight&background=0d1117&ring=4194FD&fire=ffaa00&hide_border=true" width="49%" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naira-Mohamed-11&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=4194FD&hide_border=true" width="49%" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Naira-Mohamed-11&theme=tokyonight&bg_color=0d1117&title_color=4194FD&hide_border=true&show_icons=true&count_private=true" width="100%" alt="GitHub Stats" />
+  <!-- Streak Stats scaled to fill the width cleanly -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naira-Mohamed-11&theme=tokyonight&background=0d1117&ring=4194FD&fire=ffaa00&hide_border=true" width="80%" alt="Streak Stats" />
 </div>
 
 <br />
